@@ -1,4 +1,4 @@
-# 🤖 Analizador de Juegos Olímpicos con GPT
+# 🤖 Olympic Games Analyzer with GPT
 
 A small Streamlit app that lets you ask natural-language questions about Olympic athletes and results. It loads a CSV dataset, summarizes it, and forwards your question (plus the summary) to an OpenAI chat model, which answers using that context.
 
